@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <title>Names</title>
+    <link rel="stylesheet" href="src/styles.css" />
+  </head>
+  <body>
+
+      <form action="" onsubmit="submitDetails(event)" className="entryForm">
+        <div class="box">
+          <label>Birthday</label>
+          <input id="birthday" type="date" />
+        </div>
+
+
+        <div class="box">
+          <div>
+            Gender
+          </div>
+          <div>
+            <select id="gender">
+              <option value="male">Male</option>
+              <option value="female">Female</option>
+            </select>
+          </div>
+        </div>
+
+        <div class="box">
+          <button class="btn" type="submit">
+            Submit
+          </button>
+        </div>
+        <div class="box" id="name"></div>
+
+        <div class="box" id="error"></div>
+      </form>
+
+  <script src="index.js"></script>
+</body>
+</html>
