@@ -6,7 +6,7 @@ Use the code as it is to get the expected result
 There are no bugs with the application
 HTML,CSS and JavaScript were used
 It was built with Visual Studio Code
-Contact me with my email amungaadrian25@gmail.com for questions or help 
+Contact me with my email amungaadrian25@gmail.com for questions or if you need help 
 The License is GNU General Public License
 
 Copyright © 2020 Adrian Amunga
