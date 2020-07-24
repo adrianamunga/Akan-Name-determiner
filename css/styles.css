@@ -1,10 +1,6 @@
 body{
     font-family: sans-serif;
-}
-
-.entryForm {
-    display: flex;
-    flex-direction: column;
+    background-color: #cbeaed;
 }
 
 .box {
@@ -12,25 +8,27 @@ body{
     margin: 0rem;
     padding: 2rem;
     font-size: 2rem;
+    font-family: Verdana;
 }
 
-.label {
-    font-size: 2rem;
+#gender {
+    font-size: 1.7rem;
 }
   
 .btn {
     background-color: #151515;
-    font-size: 1em;
+    font-size: 1rem;
     padding: 0.5rem;
     color: white;
     padding: 15px;
     display: inline-block;
     font-size: 16px;
+    width: 100px;
+    float: right;
 }
   
 .result {
     border-radius: 5px;
     font-size: 2rem;
-    width: 100%;
+    font-family: Georgia;
 }
-  
