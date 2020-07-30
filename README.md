@@ -4,7 +4,7 @@
 Adrian Amunga
 
 ## Description
-#### This is a web application that takes a user's birthday and calculates the day of the week they were born and then depending on their gender outputs their Akan Name  
+#### This is a web application that takes a user's birthday and calculates the day of the week they were born and then depending on their gender tells them their Akan Name  
 
 ## Setup/Installation Requirements
 Use the code as it is to get the expected result
